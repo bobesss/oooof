@@ -1,7 +1,7 @@
 var meatspin,
   playButtonHtml,
   bodyCss,
-  playing = false;
+  playing = true;
 var frames = new Array(4);
 
 document.addEventListener("DOMContentLoaded", function() {
